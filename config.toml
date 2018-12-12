@@ -9,7 +9,7 @@
 baseurl = "https://yinjunjun.github.io/"
 
 # Title of your site
-title = "Academic"
+title = "Geo-Complexity"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -64,14 +64,14 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  address = "813 Oswald Tower, Penn State University, University Park, PA 16802, USA"
   office_hours = """
   Monday 10:00 to 13:00\\
   Wednesday 09:00 to 10:00\\
   Otherwise email to book an appointment
   """
-  phone = "888 888 88 88"
-  skype = "echo123"
+  phone = "217 819 6366"
+  skype = "macro_jun"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
