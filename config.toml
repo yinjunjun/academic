@@ -263,7 +263,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+    link = "#contact"  # For a direct email link, use "mailto:jyin@psu.edu".
 
  # [[params.social]]
  #   icon = "twitter"
@@ -278,7 +278,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/gcushen"
+    link = "https://github.com/yinjunjun"
 
    # Link to a PDF of your resume/CV from the About widget.
    # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -306,10 +306,10 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[menu.main]]
   name = "Projects"
@@ -317,8 +317,8 @@ enableGitInfo = false
   weight = 4
 
 [[menu.main]]
-  name = "Tutorials"
-  url = "/tutorial/"
+  name = "Teaching"
+  url = "/teaching/"
   weight = 5
 
 [[menu.main]]
