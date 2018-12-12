@@ -19,27 +19,41 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Assistant Research Professor"
+  company = "Pennsylvania State University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "University Park"
+  date_start = "2016-12-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Social Science Big Data Research Scientist"
+  company = "Pennsylvania State University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "University Park, PA"
+  date_start = "2016-12-01"
+  date_end = ""
+  description = """"""
+
+[[experience]]
+  title = "Lecturer"
+  company = "University of Illinois at Urbana-Champaign"
+  company_url = ""
+  location = "Urbana, IL"
+  date_start = "2016-02-01"
+  date_end = "2016-05-30"
+  description = """"""
+
+[[experience]]
+  title = "Postdoctoral Research Associate"
+  company = "CyberGIS Center for Advanced Digital and Spatial Studies; National Center for Supercomputing Applications; University of Illinois at Urbana-Champaign"
+  company_url = ""
+  location = "Urbana, IL"
+  date_start = "2014-03-15"
+  date_end = "2016-11-30"
+  description = """"""
 
 +++

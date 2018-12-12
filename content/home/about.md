@@ -12,12 +12,14 @@ weight = 5
   interests = [
     "GIScience",
     "Computional Social Science",
-    "Complexity"
+    "Spatial Analysis and Modelling",
+    "Geo-Complexity",
+    "Human Mobility"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Spatial Science"
+  course = "Ph.D in Spatial Information Science"
   institution = "Dublin Institute of Technology"
   year = 2013
  
@@ -25,4 +27,4 @@ weight = 5
 
 # Biography
 
-Junjun Yin is 
+xxx
