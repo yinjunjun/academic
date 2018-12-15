@@ -57,7 +57,7 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Penn State", url = "" } ]
+  organizations = [ { name = "Social Science Research Institute", url = "" },{ name = "ICS Associate", url = "" },{ name = "Institute for CyberScience", url = "" },{ name = "The Pennsylvania State University, University Park", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -66,9 +66,9 @@ enableGitInfo = false
   email = "test@example.org"
   address = "813 Oswald Tower, Penn State University, University Park, PA 16802, USA"
   office_hours = """
-  Monday 10:00 to 13:00\\
-  Wednesday 09:00 to 10:00\\
-  Otherwise email to book an appointment
+  #Monday 10:00 to 13:00\\
+  #Wednesday 09:00 to 10:00\\
+  #Otherwise email to book an appointment
   """
   phone = "217 819 6366"
   skype = "macro_jun"
