@@ -65,9 +65,8 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "test@example.org"
   address = "813 Oswald Tower, Penn State University, University Park, PA 16802, USA"
-  office_hours = """
-  """
-  phone = "217 819 6366"
+  # office_hours = """ """
+  # phone = "217 819 6366"
   skype = "macro_jun"
   telegram = ""
   keybase = ""  # Your keybase.io username.
