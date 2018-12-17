@@ -66,9 +66,6 @@ enableGitInfo = false
   email = "test@example.org"
   address = "813 Oswald Tower, Penn State University, University Park, PA 16802, USA"
   office_hours = """
-  #Monday 10:00 to 13:00\\
-  #Wednesday 09:00 to 10:00\\
-  #Otherwise email to book an appointment
   """
   phone = "217 819 6366"
   skype = "macro_jun"
@@ -145,7 +142,7 @@ enableGitInfo = false
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
-  math = false
+  math = true
 
   # Highlight.js options
   #   highlight
@@ -207,9 +204,9 @@ enableGitInfo = false
   ]
 
   # Configuration of talk pages.
-  [params.talks]
+  #[params.talks]
     # Show talk time?
-    time = true
+   # time = true
 
   # Configuration of publication pages.
   [params.publications]
@@ -286,7 +283,6 @@ enableGitInfo = false
      icon = "cv"
      icon_pack = "ai"
      link = "https://yinjunjun.github.io/home/CV_Yin.pdf"
-  #   link = "files/cv.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -316,9 +312,15 @@ enableGitInfo = false
   url = "#projects"
   weight = 4
 
+#[[menu.main]]
+#  name = "Teaching"
+#  url = "/teaching/"
+#  weight = 5
+
+
 [[menu.main]]
   name = "Teaching"
-  url = "/teaching/"
+  url = "#teaching"
   weight = 5
 
 [[menu.main]]
@@ -350,10 +352,10 @@ enableGitInfo = false
     show_logo = false
 
 # Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+#[taxonomies]
+#  tag = "tags"
+#  category = "categories"
+#  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.

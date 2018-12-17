@@ -49,7 +49,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Postdoctoral Research Associate"
-  company = "CyberGIS Center for Advanced Digital and Spatial Studies\\ National Center for Supercomputing Applications\\ University of Illinois at Urbana-Champaign"
+  company = "CyberGIS Center for Advanced Digital and Spatial Studies; National Center for Supercomputing Applications; University of Illinois at Urbana-Champaign"
   company_url = ""
   location = "Urbana, IL"
   date_start = "2014-03-15"
