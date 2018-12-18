@@ -1,6 +1,6 @@
 +++
 title = "Delineate Urban Boundaries in Great Britain from the Network of Large Scale Twitter User Spatial Interactions"
-date = "2017"
+date = "2017-03-06"
 authors = ["J. Yin", "A. Soliman", "D. Yin", "S. Wang"]
 publication_types = ["2"]
 publication = "International Journal of Geographical Information Science, 31(7), pp. 1293-1313"

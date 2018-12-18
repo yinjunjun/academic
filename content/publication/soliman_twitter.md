@@ -1,9 +1,9 @@
 +++
-title = "Mapping Spatiotemporal Patterns of Events Using Social Media: A Case Study of Influenza Trends"
-date = "2018-01-02"
-authors = ["Y. Gao", "S. Wang", "A. Padmanabhan", "J. Yin", "G. Cao"]
+title = "Social sensing of urban land use based on analysis of Twitter users’ mobility patterns"
+date = "2017-07-19"
+authors = ["A. Soliman","K. Soltani","J. Yin", "A. Padmanabhan", "S. Wang"]
 publication_types = ["2"]
-publication = "International Journal of Geographical Information Science, 32(3), pp. 425-449"
+publication = "PLoS ONE, 12(7):e0181657. DOI:10.1371/journal.pone.0181657"
 publication_short = ""
 abstract_short = ""
 image_preview = ""

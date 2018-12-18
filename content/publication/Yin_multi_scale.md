@@ -1,9 +1,9 @@
 +++
-title = "Mapping Spatiotemporal Patterns of Events Using Social Media: A Case Study of Influenza Trends"
-date = "2018-01-02"
-authors = ["Y. Gao", "S. Wang", "A. Padmanabhan", "J. Yin", "G. Cao"]
+title = "Exploring Multi-Scale Spatiotemporal Twitter User Mobility Patterns with a Visual-Analytics Approach"
+date = "2016-11-01"
+authors = ["J. Yin", "Y. Gao", "Z. Du", "S. Wang"]
 publication_types = ["2"]
-publication = "International Journal of Geographical Information Science, 32(3), pp. 425-449"
+publication = "ISPRS International Journal of Geo-Information, 5(10):187"
 publication_short = ""
 abstract_short = ""
 image_preview = ""

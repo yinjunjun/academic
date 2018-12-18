@@ -1,9 +1,9 @@
 +++
-title = "Mapping Spatiotemporal Patterns of Events Using Social Media: A Case Study of Influenza Trends"
-date = "2018-01-02"
-authors = ["Y. Gao", "S. Wang", "A. Padmanabhan", "J. Yin", "G. Cao"]
+title = "A Topology-concerned Spatial Vector Data Model for Column-oriented Databases"
+date = "2017-05-01"
+authors = ["K. Zheng", "M.P. Kwan", "L. Fang", "J. Yin", "D. Gu", "Y. Fu"]
 publication_types = ["2"]
-publication = "International Journal of Geographical Information Science, 32(3), pp. 425-449"
+publication = "International Journal of Database Theory and Application, 10(5), pp. 33-46"
 publication_short = ""
 abstract_short = ""
 image_preview = ""
