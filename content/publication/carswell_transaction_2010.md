@@ -1,5 +1,5 @@
 +++
-title = "Characterizing the human mobility pattern in a large street network"
+title = "Mobile visibility querying for LBS"
 date = "2010-12-01"
 authors = ["J. Carswell","K. Gardiner", "J. Yin"]
 publication_types = ["2"]
@@ -7,7 +7,7 @@ publication = "Transactions in GIS, 14(6), pp. 791-809"
 publication_short = ""
 abstract_short = ""
 image_preview = ""
-selected = true
+selected = false
 projects = []
 tags = []
 url_pdf = ""

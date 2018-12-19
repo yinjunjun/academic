@@ -22,7 +22,7 @@ count = 4
 #   2 = APA
 #   3 = MLA
 #   4 = Stream
-list_format = 3
+list_format = 2
 
 # Filter by publication type.
 # -1: Any
