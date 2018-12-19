@@ -301,6 +301,8 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 2
 
+# url = "#publications_selected"
+
 #[[menu.main]]
 #  name = "Posts"
 #  url = "#posts"
@@ -351,10 +353,10 @@ enableGitInfo = false
     show_logo = false
 
 # Taxonomies.
-#[taxonomies]
-#  tag = "tags"
-#  category = "categories"
-#  publication_type = "publication_types"
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
