@@ -13,7 +13,7 @@ organizations:
 - name: Social Science Research Institute
 - name: ICDS Associate
 - name: Institute for Computational and Data Sciences
-- name: Penn State
+- name: Pennsylvania State University
   url: "http://www.psu.edu"
 
 # Short bio (displayed in user profile at end of posts)
