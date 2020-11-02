@@ -1,17 +1,16 @@
 +++
 # Experience widget.
-widget = "experience"  # Do not modify this line!
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
 
-# Order that this section will appear in.
-weight = 8
-
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "January 2006"
+date_format = "Jan 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -25,9 +24,7 @@ date_format = "January 2006"
   location = "University Park, PA"
   date_start = "2016-12-01"
   date_end = ""
-  description = """
-
-  """
+  description = ""
 
 [[experience]]
   title = "Social Science Big Data Research Scientist"
@@ -36,7 +33,7 @@ date_format = "January 2006"
   location = "University Park, PA"
   date_start = "2016-12-01"
   date_end = ""
-  description = """"""
+  description = ""
 
 [[experience]]
   title = "Lecturer"
@@ -45,7 +42,7 @@ date_format = "January 2006"
   location = "Urbana, IL"
   date_start = "2016-01-07"
   date_end = "2016-06-01"
-  description = """"""
+  description = ""
 
 [[experience]]
   title = "Postdoctoral Research Associate"
@@ -54,6 +51,5 @@ date_format = "January 2006"
   location = "Urbana, IL"
   date_start = "2014-03-15"
   date_end = "2016-11-30"
-  description = """"""
-
+  description = ""
 +++
